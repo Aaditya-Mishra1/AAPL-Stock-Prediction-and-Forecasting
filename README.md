@@ -32,3 +32,9 @@ To predict future stock prices using the trained LSTM model, perform the followi
 Make sure to replace placeholder comments in the code with your actual data and preferences. Additionally, ensure that you have the necessary libraries (such as numpy, tensorflow, keras, etc.) installed in your environment. Feel free to customize the code, add additional features, or experiment with different model architectures to enhance prediction accuracy.
 
 You can use this description as a template for your GitHub repository's README file to provide a comprehensive overview of the project and guide users on how to utilize the provided code.
+
+![image](https://github.com/Aaditya-Mishra1/AAPL-Stock-Prediction-and-Forecasting/assets/82424609/99124e2e-5048-4ff0-8b57-d576ae57cc6f) ![image](https://github.com/Aaditya-Mishra1/AAPL-Stock-Prediction-and-Forecasting/assets/82424609/338f3152-df48-4506-a16e-1587ce9f1a94) ![image](https://github.com/Aaditya-Mishra1/AAPL-Stock-Prediction-and-Forecasting/assets/82424609/ee7f6f4f-2895-4335-9c37-b9f8c65610d2)
+
+
+
+
